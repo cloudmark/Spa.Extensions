@@ -7,7 +7,7 @@ using Microsoft.AspNet.Http;
 using Microsoft.Framework.Logging;
 
 
-namespace Spa.Extensions.Extenstions
+namespace Spa.Extensions.Extensions
 {
     /// <summary>
     /// Enables serving static files for SPA requests

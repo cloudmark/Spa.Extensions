@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNet.FileProviders;
 using Microsoft.AspNet.Http;
 
-namespace Spa.Extensions.Extenstions
+namespace Spa.Extensions.Extensions
 {
     /// <summary>
     /// Contains information about the request and the file that will be served in response.

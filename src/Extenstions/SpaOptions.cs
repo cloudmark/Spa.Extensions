@@ -3,7 +3,7 @@ using Microsoft.AspNet.FileProviders;
 using Microsoft.AspNet.Hosting;
 using Microsoft.AspNet.Http;
 
-namespace Spa.Extensions.Extenstions
+namespace Spa.Extensions.Extensions
 {
     public class SpaOptions
     {

@@ -6,7 +6,7 @@ using Microsoft.AspNet.Http.Features;
 using Microsoft.Framework.Logging;
 using Spa.Extensions.IO;
 
-namespace Spa.Extensions.Extenstions
+namespace Spa.Extensions.Extensions
 {
     internal struct SpaContext
     {

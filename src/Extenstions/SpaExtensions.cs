@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNet.Builder;
 using Microsoft.AspNet.Http;
 
-namespace Spa.Extensions.Extenstions
+namespace Spa.Extensions.Extensions
 {
     public static class SpaExtensions
     {
